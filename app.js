@@ -5,7 +5,7 @@ const ticketContainer = document.getElementById("ticket-container");
 let count = 0;
 
 // Array containing the values to check against
-const valuesToCheck = [1, 3, 4, 5, 10, 13, 16, 17, 18, 19, 20, 22, 24, 26, 29, 30,
+const valuesToCheck = [1, 3, 4, 5, 8, 10, 12, 13, 16, 17, 18, 19, 20, 22, 24, 26, 29, 30,
                        33, 35, 38, 42, 44, 45, 46, 50, 52, 55, 60, 68, 69, 70, 73, 74, 75, 83, 85, 
                        89, 90, 93, 94, 95, 100, 105, 108, 109, 110, 115, 120, 125, 129, 135, 139, 142, 143, 144,
                        148, 149, 152, 155, 156, 160
